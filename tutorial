@@ -1,0 +1,3 @@
+mkdir nome da pasta
+git remote add origin....
+git push -u origin main 

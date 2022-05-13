@@ -1,3 +1,3 @@
-modules.exports = {
-    function(){console.log("exportando")}
+module.exports = {
+    funcao1(){console.log("exportando")}
 }

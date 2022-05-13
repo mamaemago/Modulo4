@@ -1,3 +1,3 @@
-const importando1 = require ("./exportando") //impotação node.js
+const imports1 = require("./exports") //impotação node.js
 
-importando1.funcao1()
+imports1.funcao1()
